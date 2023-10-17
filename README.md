@@ -22,9 +22,9 @@ This is a simple chatroom application that allows users to log in using their Gi
 To run this chatroom application, follow these steps:
 
 1. Clone this repository to your local machine:
-git clone https://github.com/yourusername/chatroom-app.git
+git clone https://github.com/agratapaliwal/springboot-chat-application.git
 2. Navigate to the project directory:
-cd chatroom-app
+cd springboot-chat-application
 3. Build and run the application using Maven.
 mvn spring-boot:run
 4. Once the application is up and running, you can access it in your web browser at 'http://localhost:8080'.
