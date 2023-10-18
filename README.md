@@ -25,7 +25,7 @@ To run this chatroom application, follow these steps:
 git clone https://github.com/agratapaliwal/springboot-chat-application.git
 2. Navigate to the project directory:
 cd springboot-chat-application
-3. Build and run the application using Maven.
+3. Build and run the application using Maven:
 mvn spring-boot:run
 4. Once the application is up and running, you can access it in your web browser at 'http://localhost:8080'.
 
